@@ -21,8 +21,8 @@ texto ="""hola estas son algunas pruebas para pobrar la extension de git"""
 
 
 num1 = 0
-# saludo = "hola_mundo"
-# print(saludo[2:5])
+saludo = "hola_mundo"
+print(saludo[2:5])
 
 # print(saludo[0])
 # print(saludo[3::3])
